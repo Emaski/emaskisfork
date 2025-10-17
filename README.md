@@ -2,7 +2,7 @@
 #####
 - JDK 21 
 - Maven 4.0 
-- MySQL 15
+- MySQL 16
 
 # Technologies 
 - JAKARTA
